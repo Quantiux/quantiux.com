@@ -1,3 +1,3 @@
 # Quantiux codes
 
-This repo contains complete codes as explained in my articles on [Quantiux](https://quantiux.com).
+This repo contains complete codes from my articles on [Quantiux](https://quantiux.com).
